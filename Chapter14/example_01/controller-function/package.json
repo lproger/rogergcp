@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "googleapis": "^32.0.0"
+    "googleapis": "^59.0.0"
   }
 }
